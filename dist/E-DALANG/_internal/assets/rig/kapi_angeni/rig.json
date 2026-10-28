@@ -1,0 +1,42 @@
+{
+  "source_facing": 1,
+  "body_size": [
+    706,
+    856
+  ],
+  "shoulder_on_body": [
+    468,
+    462
+  ],
+  "upper": {
+    "file": "upper.png",
+    "pivot": [
+      15.0,
+      17.0
+    ],
+    "elbow_local": [
+      50.0,
+      105.0
+    ]
+  },
+  "fore": {
+    "file": "fore.png",
+    "pivot": [
+      26.0,
+      26.0
+    ],
+    "hand_local": [
+      153.0,
+      126.0
+    ]
+  },
+  "len_upper": 94.70480452437458,
+  "len_fore": 161.64467204334326,
+  "rest_upper_angle": 68.3109350353842,
+  "rest_fore_angle": 38.216951144798855,
+  "hip_on_body": [
+    353,
+    530
+  ],
+  "body_rod": false
+}
